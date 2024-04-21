@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12f8f947-b386-46e1-8c7f-951bb5f01747" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_resp" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2X7Yi5EHLpktGpcAweJty6avEW3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.1081081" />
+    <property name="project.structure.side.proportion" value="0.32363635" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\eclipse-workspace\ExtentTest2023102201" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.test1" />
+      <recent name="org.example.extentManager" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/eclipse-workspace/ExtentTest2023102201/testng.xml">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.test1.Main" />
+      <module name="ExtentTest2023102201" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.test1.MyMain" />
+      <module name="ExtentTest2023102201" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.test1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/eclipse-workspace/ExtentTest2023102201/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ExtentTest2023102201" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/eclipse-workspace/ExtentTest2023102201/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ExtentTest2023102201" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/eclipse-workspace/ExtentTest2023102201/testng.xml" />
+        <item itemvalue="Application.MyMain" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="TestNG.D:/eclipse-workspace/ExtentTest2023102201/testng2.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12f8f947-b386-46e1-8c7f-951bb5f01747" name="Default Changelist" comment="" />
+      <created>1697981709155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697981709155</updated>
+      <workItem from="1697981710396" duration="5494000" />
+      <workItem from="1698067698591" duration="2387000" />
+      <workItem from="1698151630291" duration="2545000" />
+      <workItem from="1698411516979" duration="591000" />
+      <workItem from="1698756806248" duration="6161000" />
+      <workItem from="1699276074070" duration="591000" />
+      <workItem from="1699691697597" duration="1189000" />
+      <workItem from="1701525289327" duration="129000" />
+      <workItem from="1701525435167" duration="28000" />
+      <workItem from="1705148695862" duration="16000" />
+      <workItem from="1705148727876" duration="595000" />
+      <workItem from="1710250731754" duration="8000" />
+      <workItem from="1710250755413" duration="1847000" />
+      <workItem from="1710338205931" duration="2197000" />
+      <workItem from="1710423405622" duration="1049000" />
+      <workItem from="1710596338166" duration="592000" />
+      <workItem from="1710650894327" duration="1933000" />
+      <workItem from="1711373743651" duration="3462000" />
+      <workItem from="1711462723786" duration="1536000" />
+      <workItem from="1713680113120" duration="11000" />
+      <workItem from="1713680135406" duration="8962000" />
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <created>1713710033517</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713710033517</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+    <MESSAGE value="123" />
+    <option name="LAST_COMMIT_MESSAGE" value="123" />
+  </component>
+</project>
